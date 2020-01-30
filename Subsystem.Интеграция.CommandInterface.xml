@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<CommandsVisibility>
+		<Command name="0:3eaac7ca-7c18-40bf-905d-32a77762044e">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:79bea02f-3ced-44f9-9a0f-dd00fb6445b3">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="0:79bea02f-3ced-44f9-9a0f-dd00fb6445b3">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:3eaac7ca-7c18-40bf-905d-32a77762044e">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+		</Command>
+		<Command name="0:79bea02f-3ced-44f9-9a0f-dd00fb6445b3">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.Интеграция.Subsystem.ТорговоеОборудование</Subsystem>
+		<Subsystem>Subsystem.Интеграция.Subsystem.ОбменСКонфигурациями1С</Subsystem>
+		<Subsystem>Subsystem.Интеграция.Subsystem.ПечатьЦенниковИЭтикеток</Subsystem>
+		<Subsystem>Subsystem.Интеграция.Subsystem.ОбменС1СБитрикс</Subsystem>
+		<Subsystem>Subsystem.Интеграция.Subsystem.ДатаМобайл</Subsystem>
+	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelImportant</Group>
+		<Group>NavigationPanelOrdinary</Group>
+		<Group>NavigationPanelSeeAlso</Group>
+	</GroupsOrder>
+</CommandInterface>
