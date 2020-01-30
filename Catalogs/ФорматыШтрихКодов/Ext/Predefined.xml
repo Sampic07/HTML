@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.4">
+	<Item id="4e12b8ad-7584-4de7-84df-b6bbe20db9b3">
+		<Name>Весовой</Name>
+		<Code/>
+		<Description>Весовой</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="61a0d42e-ee42-4a25-a0e9-6cedd28e0b7d">
+		<Name>ПрефиксКартыСотрудника</Name>
+		<Code/>
+		<Description>Префикс карты сотрудника</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e9961ac0-f167-4d98-9f83-d2b2c060fe62">
+		<Name>Штучный</Name>
+		<Code/>
+		<Description>Штучный</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
