@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<CommandsVisibility>
+		<Command name="0:605a9300-c9e7-4712-896a-1b25ac18715f">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:90cf6651-32de-4641-a3d9-b78d3c4c5234">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:ac65469e-44e4-497e-b7c4-d5fe3ec2b253">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:12dfb749-c317-4fec-94c1-b2cc9ffc0477">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:cd336e34-2620-41a2-8f9e-2356155a7007">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:4e733f53-6633-4bda-9456-94a4e7f88d7e">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:b76a7b44-a3bb-41ae-96b7-d00fa91b0f58">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:1ae619e7-a6b3-47df-b908-b4c5bcee8577">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="0:ac65469e-44e4-497e-b7c4-d5fe3ec2b253">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:12dfb749-c317-4fec-94c1-b2cc9ffc0477">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:cd336e34-2620-41a2-8f9e-2356155a7007">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:4e733f53-6633-4bda-9456-94a4e7f88d7e">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:ac65469e-44e4-497e-b7c4-d5fe3ec2b253">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+		</Command>
+		<Command name="0:12dfb749-c317-4fec-94c1-b2cc9ffc0477">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+		</Command>
+		<Command name="0:cd336e34-2620-41a2-8f9e-2356155a7007">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+		</Command>
+		<Command name="0:4e733f53-6633-4bda-9456-94a4e7f88d7e">
+			<CommandGroup>NavigationPanelSeeAlso</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.Финансы.Subsystem.Касса</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.РасчетыССотрудниками</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.Банк</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.ДоходыИРасходы</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.Переносы</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.Взаиморасчеты</Subsystem>
+		<Subsystem>Subsystem.Финансы.Subsystem.ДвиженияДенежныхСредств</Subsystem>
+	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelSeeAlso</Group>
+	</GroupsOrder>
+</CommandInterface>
