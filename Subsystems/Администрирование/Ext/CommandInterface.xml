@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<CommandsVisibility>
+		<Command name="0:579baaa4-6493-4d99-8744-6399757295c7">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:cd454738-62dd-4f95-af33-b52750678428">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:c264441d-4805-4968-baa2-37b8970049c7">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:782cb93d-36e6-4923-b2b6-75caa3459cd6">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:dc03742e-7f91-482d-91a9-b36f791279ba">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="76702e9e-fa7a-4b98-befa-f9b37db2dae0">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="0:2a6f6c42-85dd-477e-899b-b2fcb67929f7">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:10543f9a-4e3f-427a-b36a-9c66709dd6fb">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:d912e472-9553-4b96-8b16-7aaff6c14239">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:45c0003f-0ed7-4582-b84e-217fdc4ddeaf">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+				<xr:Value name="76702e9e-fa7a-4b98-befa-f9b37db2dae0">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="0:6b2340d7-687f-43a3-8eb8-8ddb86712466">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:d0106f3a-8490-4277-a278-75c318ec252c">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:38fc1e6e-7cd3-437b-b429-6655be34cd01">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:92707138-5004-4378-8477-f909166d319d">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:3667022e-1f79-461a-beb2-ccb9a3aedfa0">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:6c040a60-51c6-4948-a7bb-88e9ae7ae0bc">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:2a6e1f2b-7378-456b-9657-9e971eaff716">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:c3cdea20-3055-4b4e-a531-a02d4f3ed294">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:a22d1a4f-cb7c-4bcc-b258-ecca282fb071">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:2a479b8f-7569-43d0-8ca3-9001d6ec57f0">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:a469e55e-d7ca-4c27-b350-fafe7364c18f">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:d03f66b1-48a3-434b-bb58-9fd53c183514">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:f480ac52-e2f1-4ed0-a0b1-20a622f77302">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:54e27c34-c2a1-460c-a860-2b284f29766b">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:f36150de-33af-4410-8a4c-8c9f4b545793">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:fe9522aa-b2ab-41af-a4f6-a407958566bf">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:b5384eb7-40e4-4437-b96b-eab9b7b5b8f2">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:f3750ea4-5f9e-4ab3-9495-3f182ecff407">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:8a2bd7e1-707d-45d5-828f-257b39eacad5">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:da0fcd7f-1d0f-46c3-91cf-b02af78e3425">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:8e21374f-5a65-406c-856d-2040607da4bc">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:9202335d-50bb-4282-9438-24c7fb9cf637">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:0ec0b1a0-5f0d-4a14-9a84-49098befa0af">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="0:579baaa4-6493-4d99-8744-6399757295c7">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:cd454738-62dd-4f95-af33-b52750678428">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:c264441d-4805-4968-baa2-37b8970049c7">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:579baaa4-6493-4d99-8744-6399757295c7">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+		</Command>
+		<Command name="0:cd454738-62dd-4f95-af33-b52750678428">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+		</Command>
+		<Command name="0:c264441d-4805-4968-baa2-37b8970049c7">
+			<CommandGroup>NavigationPanelImportant</CommandGroup>
+		</Command>
+		<Command name="0:782cb93d-36e6-4923-b2b6-75caa3459cd6">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:dc03742e-7f91-482d-91a9-b36f791279ba">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:2a6f6c42-85dd-477e-899b-b2fcb67929f7">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:f31f3dab-5796-47ac-a54d-3081f8cad817">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:10543f9a-4e3f-427a-b36a-9c66709dd6fb">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:d912e472-9553-4b96-8b16-7aaff6c14239">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:45c0003f-0ed7-4582-b84e-217fdc4ddeaf">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:6b2340d7-687f-43a3-8eb8-8ddb86712466">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:d0106f3a-8490-4277-a278-75c318ec252c">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:38fc1e6e-7cd3-437b-b429-6655be34cd01">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:92707138-5004-4378-8477-f909166d319d">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:3667022e-1f79-461a-beb2-ccb9a3aedfa0">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:6c040a60-51c6-4948-a7bb-88e9ae7ae0bc">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:2a6e1f2b-7378-456b-9657-9e971eaff716">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:c3cdea20-3055-4b4e-a531-a02d4f3ed294">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:c71effce-068f-4ae9-8d31-168263add243">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelImportant</Group>
+		<Group>NavigationPanelOrdinary</Group>
+	</GroupsOrder>
+</CommandInterface>
